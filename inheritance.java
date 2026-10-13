@@ -5,10 +5,10 @@ class Employee
     int id;
     public void displayEmployee()
     {
-        System.out.println("name: "+name+"id: "+id);
+        System.out.println("\nname: "+name+"\nid: "+id);
     }
 }
-class inheritance extends Employee
+public class inheritance extends Employee
 {
     Employee emp=new Employee();
     double salary;
