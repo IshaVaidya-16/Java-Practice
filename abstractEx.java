@@ -12,7 +12,7 @@ class science extends anatomy {
     }
 }
 
-public class Main {
+public class abstractEx{
     public static void main(String[] args) {
         science sc = new science();
         sc.brain();
