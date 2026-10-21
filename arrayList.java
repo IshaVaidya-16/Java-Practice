@@ -14,7 +14,7 @@ class arrayList1
             for(int i=0;i<n;i++)
                 {
                     System.out.println("Enter color: ");
-                    String input=sc.nextLine();   
+                    String input=sc.nextLine();
                     colors.add(input);
                 }
             System.out.println("ArrayList of colors: ");
