@@ -30,7 +30,7 @@ class arrayList
             System.out.println(students);
 }
     }
-class Main {
+    public class arraylistt {
     public static void main(String[] args)
         {
         arrayList al=new arrayList();
